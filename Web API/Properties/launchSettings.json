@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "weather-retrieval": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:1101"
+    }
+  }
+}

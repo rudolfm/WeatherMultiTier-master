@@ -1,0 +1,267 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Github\\WeatherMultiTier-master\\Web API\\weather-retrieval.csproj": {}
+  },
+  "projects": {
+    "E:\\Github\\WeatherMultiTier-master\\Common\\Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Github\\WeatherMultiTier-master\\Common\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "E:\\Github\\WeatherMultiTier-master\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "E:\\Github\\WeatherMultiTier-master\\Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Progress\\Telerik Reporting R2 2020\\Examples\\CSharp\\Asp.NetCoreFullDemo": {},
+          "C:\\Program Files (x86)\\Progress\\Telerik UI for ASP.NET Core R1 2021\\wrappers\\aspnetcore\\Binaries\\AspNet.Core": {},
+          "C:\\Program Files (x86)\\Progress\\Telerik UI for ASP.NET Core R2 2020\\wrappers\\aspnetcore\\Binaries\\AspNet.Core": {},
+          "C:\\Program Files (x86)\\Progress\\Telerik UI for Blazor 2.14.0\\packages": {},
+          "E:\\Software\\GemBox\\GemBox.Spreadsheet_v4.5_Build_45.0.0.1094\\GemBox.Spreadsheet v4.5 Build 45.0.0.1094": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Github\\WeatherMultiTier-master\\Data\\Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Github\\WeatherMultiTier-master\\Data\\Data.csproj",
+        "projectName": "Data",
+        "projectPath": "E:\\Github\\WeatherMultiTier-master\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "E:\\Github\\WeatherMultiTier-master\\Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Progress\\Telerik Reporting R2 2020\\Examples\\CSharp\\Asp.NetCoreFullDemo": {},
+          "C:\\Program Files (x86)\\Progress\\Telerik UI for ASP.NET Core R1 2021\\wrappers\\aspnetcore\\Binaries\\AspNet.Core": {},
+          "C:\\Program Files (x86)\\Progress\\Telerik UI for ASP.NET Core R2 2020\\wrappers\\aspnetcore\\Binaries\\AspNet.Core": {},
+          "C:\\Program Files (x86)\\Progress\\Telerik UI for Blazor 2.14.0\\packages": {},
+          "E:\\Software\\GemBox\\GemBox.Spreadsheet_v4.5_Build_45.0.0.1094\\GemBox.Spreadsheet v4.5 Build 45.0.0.1094": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Github\\WeatherMultiTier-master\\Web API\\weather-retrieval.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Github\\WeatherMultiTier-master\\Web API\\weather-retrieval.csproj",
+        "projectName": "weather-retrieval",
+        "projectPath": "E:\\Github\\WeatherMultiTier-master\\Web API\\weather-retrieval.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "E:\\Github\\WeatherMultiTier-master\\Web API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Progress\\Telerik Reporting R2 2020\\Examples\\CSharp\\Asp.NetCoreFullDemo": {},
+          "C:\\Program Files (x86)\\Progress\\Telerik UI for ASP.NET Core R1 2021\\wrappers\\aspnetcore\\Binaries\\AspNet.Core": {},
+          "C:\\Program Files (x86)\\Progress\\Telerik UI for ASP.NET Core R2 2020\\wrappers\\aspnetcore\\Binaries\\AspNet.Core": {},
+          "C:\\Program Files (x86)\\Progress\\Telerik UI for Blazor 2.14.0\\packages": {},
+          "E:\\Software\\GemBox\\GemBox.Spreadsheet_v4.5_Build_45.0.0.1094\\GemBox.Spreadsheet v4.5 Build 45.0.0.1094": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\Github\\WeatherMultiTier-master\\Common\\Common.csproj": {
+                "projectPath": "E:\\Github\\WeatherMultiTier-master\\Common\\Common.csproj"
+              },
+              "E:\\Github\\WeatherMultiTier-master\\Data\\Data.csproj": {
+                "projectPath": "E:\\Github\\WeatherMultiTier-master\\Data\\Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.CommandLine": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Runtime.Serialization.Json": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
+              "version": "[5.0.15, 5.0.15]"
+            },
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.osx-x64",
+              "version": "[5.0.15, 5.0.15]"
+            },
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[5.0.15, 5.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[5.0.15, 5.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[5.0.15, 5.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
+              "version": "[5.0.15, 5.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.osx-x64",
+              "version": "[5.0.15, 5.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[5.0.15, 5.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[5.0.15, 5.0.15]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "osx.10.11-x64": {
+          "#import": []
+        },
+        "ubuntu.14.04-x64": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
